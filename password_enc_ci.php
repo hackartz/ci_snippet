@@ -2,12 +2,12 @@
 
 /**
  * @package 	Ol_pass
- * @author 		Tan Andre Kurniawan
+ * @author		Tan Andre Kurniawan
  * @version 	0.1
- * @copyright	2013
+ * @copyright 	2013 Overheatlab.com
  *
  * custom libraries for make secure password
- * use algorithm sha256 with strong salt
+ * use algorithm sha256 with strong salting
  */
 
 class Ol_pass {
