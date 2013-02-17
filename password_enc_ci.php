@@ -1,8 +1,8 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- * @package 	Ol_pass
- * @author		Tan Andre Kurniawan
+ * @package		Ol_pass
+ * @author 		Tan Andre Kurniawan
  * @version 	0.1
  * @copyright 	2013 Overheatlab.com
  *
