@@ -1,10 +1,10 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- * @package		Ol_pass
- * @author 		Tan Andre Kurniawan
- * @version 	0.1
- * @copyright 	2013 Overheatlab.com
+ * @package     Ol_pass
+ * @author      Tan Andre Kurniawan
+ * @version     0.1
+ * @copyright   2013 Overheatlab.com
  *
  * custom libraries for make secure password
  * use algorithm sha256 with strong salting
