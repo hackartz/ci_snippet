@@ -13,6 +13,7 @@
 class Ol_pass {
 
 	// make password with salt (32 length)
+	// return encrypted string
 	public function hash_this($password) {
 		$salt = bin2hex(mcrypt_create_iv(32, MCRYPT_DEV_URANDOM));
 		// join salt with password then encrypt with
