@@ -20,7 +20,7 @@
 	if (!function_exists('img_url')) {
 		function img_url($img = '') {
 			$CI =& get_instance();
-			return base_url()."assets/js/".$img;
+			return base_url()."assets/img/".$img;
 		}
 	}
 ?>
